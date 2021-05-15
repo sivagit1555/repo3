@@ -12,3 +12,6 @@ mi2
 realme
 u1
 ue
+
+all ok
+thank u
